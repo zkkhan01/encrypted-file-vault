@@ -24,6 +24,3 @@ uvicorn backend.main:app --reload
 
 ## ✅ Status
 Prototype / POC
-
-## 📄 License
-MIT License (see LICENSE)
