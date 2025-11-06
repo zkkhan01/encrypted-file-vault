@@ -1,4 +1,4 @@
-# Encrypted File Vault — Enterprise-Grade Secure Document Storage
+# Encrypted File Vault - Enterprise-Grade Secure Document Storage
 
 This project is a security-focused prototype demonstrating how to build an encrypted document vault similar to Dropbox/Google Drive but with **client-side AES encryption**, **PBKDF2 per-user keys**, **RBAC**, **audit logging**, and **S3 presigned URLs**.
 
